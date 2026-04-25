@@ -1,6 +1,1 @@
-- 👋 Olá, sou @gustavomoreirar
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na FATEC SP
-- 👀 Interessado em programação e desenvolvimento de software
-- 🌱 Atualmente aprendendo Python e Golang
-- 💞️ Aberto para colaborar em projetos de desenvolvimento e odontologia digital
-- 📫 Contato: gustavomoreirar@gmail.com
+https://dinq.me/gustavomoreirar
